@@ -1,16 +1,16 @@
-## Hi there 👋
+Artem Todor
 
-<!--
-**art0tod/art0tod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack 
 
-Here are some ideas to get you started:
+Stack:
+* TypeScript
+* Bun / Node.js
+* Next.js + Vercel
+* Supabase (auth/db/storage/everything)
+* Drizzle
+* Tailwind + shadcn
+* you name it...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to fun collabs or freelance in this stack.
+
+Reach: Telegram @art0tod
