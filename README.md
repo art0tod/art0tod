@@ -1,5 +1,5 @@
 Artem Todor
 
-**TypeScript** | **Bun** / **Node.js** | **Next.js** + **Vercel** | **Supabase** | **Drizzle** | **Tailwind** + **shadcn** | you name it...
+**TypeScript** | **Bun** | **Next.js** | **Vercel** | **Supabase** | **Drizzle** | **Tailwind** | **shadcn** | *you name it...*
 
-Telegram **@art0tod**
+[@art0tod](https://art0tod.t.me)
