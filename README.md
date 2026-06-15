@@ -1,6 +1,6 @@
 Artem Todor
 
-**TypeScript** | **Bun** | **Next.js** | **Vercel** | **Supabase** | **Drizzle** | **Tailwind** | **shadcn/ui** | *you name it...*
+build websites
 
 [more at art0tod.com](https://art0tod.com)
 
